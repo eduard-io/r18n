@@ -7,12 +7,12 @@ module R18n
     set :title => 'Euskara',
         :sublocales => %w{es en},
 
-        :wday_names => %w{igandea astelehena asteartea asteazkena osteguna
-                          ostirala larunbata},
+        :wday_names => %w{igande astelehen astearte asteazken ostegun
+                          ostiral larunbat},
         :wday_abbrs => %w{il al as az og or lr},
 
-        :month_names => %w{Urtarrila Otsaila Martxoa Apirila Maiatza Ekaina
-                           Uztaila Abuztua Iraila Urria Azaroa Abendu},
+        :month_names => %w{Urtarril Otsail Martxo Apiril Maiatz Ekain
+                           Uztail Abuztu Irail Urri Azaro Abendu},
         :month_abbrs => %w{urt ots mar api mai eka uzt abu ira urr aza abe},
 
         :date_format => '%Y/%m/%d',
