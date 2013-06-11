@@ -1,6 +1,6 @@
 # encoding: utf-8
 module R18n
-  class Locales::Ca < Locale
+  class Locales::Eu < Locale
     # Doc: http://www.santurtzieus.com/gelairekia/laguntza/funtzioak/la_fecha.htm
     # http://aprendeeuskera.blogspot.com.es/2009/12/leccion-11-fechas-fechas-y-mas-fechas.html
     # Abbrv. of months: http://www.slideshare.net/katalogador/hilabeteak
